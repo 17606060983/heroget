@@ -1,2 +1,3 @@
-2022/12/13-10:34:18.665 78a Creating DB /home/runner/work/heroget/heroget/epic/src/database/users/5d3a46f371aa7908ab8c2d92e13c9695ce6b7221447b2056306fdbad26378352/Default/Site Characteristics Database since it was missing.
-2022/12/13-10:34:18.670 78a Reusing MANIFEST /home/runner/work/heroget/heroget/epic/src/database/users/5d3a46f371aa7908ab8c2d92e13c9695ce6b7221447b2056306fdbad26378352/Default/Site Characteristics Database/MANIFEST-000001
+2022/12/16-10:12:47.562 7da Reusing MANIFEST /home/runner/work/heroget/heroget/epic/src/database/users/5d3a46f371aa7908ab8c2d92e13c9695ce6b7221447b2056306fdbad26378352/Default/Site Characteristics Database/MANIFEST-000001
+2022/12/16-10:12:47.562 7da Recovering log #3
+2022/12/16-10:12:47.562 7da Reusing old log /home/runner/work/heroget/heroget/epic/src/database/users/5d3a46f371aa7908ab8c2d92e13c9695ce6b7221447b2056306fdbad26378352/Default/Site Characteristics Database/000003.log 
